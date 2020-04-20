@@ -557,7 +557,6 @@ ul.icons {
       text-align: center;
       text-indent: 4em; }
       ul.icons li a:before {
-        color: #555;
         position: absolute;
         top: 0;
         left: 0;
