@@ -1,6 +1,10 @@
 
 
 /* Icons */
+ul.icons li a:hover:before {
+    color: #0d8bd4;
+    border-color: #0d8bd4;
+}
 
 ul.icons {
 	cursor: default;
